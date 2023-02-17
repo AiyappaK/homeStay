@@ -1,0 +1,106 @@
+{
+    "resources": [
+      {
+        "id":"1rooms",
+        "title": "Luxurious Room 0",
+        "imageUrl": [
+          "https://scontent.fmyq1-1.fna.fbcdn.net/v/t39.30808-6/315597508_5773200606099853_2885857335117194535_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=79524b&_nc_ohc=zv6ZFMAwRvIAX-qxUwh&_nc_ht=scontent.fmyq1-1.fna&oh=00_AfCD6-qcBozPKRiVbGL9WmtCw_1rX_Kx7eEZb5bqqQ9cjA&oe=63820918",
+            "https://placeimg.com/100/300/any",
+            "https://placeimg.com/200/100/any",
+            "https://placeimg.com/300/100/any"
+        ],
+        "details": "2 Adult 1 Children",
+        "sMember":"2",
+        "mMember":"4",
+        "numberOfRoom":"1",
+        "basicPrice": "500",
+        "extraPrice":"100",
+        "KidsPrice":"50"
+      },
+      {
+        "id":"2rooms",
+        "title": "Luxurious Room 1",
+        "imageUrl": [
+            "https://picsum.photos/190/390?3",
+            "https://placeimg.com/100/100/any",
+            "https://placeimg.com/100/100/any",
+            "https://placeimg.com/100/100/any"
+        ],
+        "details": "2 Adult 1 Children",
+        "sMember":"2",
+        "mMember":"4",
+        "numberOfRoom":"1",
+        "basicPrice": "500",
+        "extraPrice":"100",
+        "KidsPrice":"50"
+      },
+      {
+        "id":"3rooms",
+        "title": "Luxurious Room 2",
+        "imageUrl": [
+          "https://picsum.photos/190/190?4",
+            "https://placeimg.com/100/100/any",
+            "https://placeimg.com/100/100/any",
+            "https://placeimg.com/100/100/any"
+        ],
+        "details": "2 Adult 1 Children",
+        "sMember":"2",
+        "mMember":"4",
+        "numberOfRoom":"1",
+        "basicPrice": "500",
+        "extraPrice":"100",
+        "KidsPrice":"50"
+      },
+      {
+        "id":"4rooms",
+        "title": "Luxurious Room 3",
+        "imageUrl": [
+          "https://picsum.photos/190/190?5",
+            "https://placeimg.com/100/100/any",
+            "https://placeimg.com/100/100/any",
+            "https://placeimg.com/100/100/any"
+        ],
+        "details": "2 Adult 1 Children",
+        "sMember":"2",
+        "mMember":"4",
+        "numberOfRoom":"1",
+        "basicPrice": "500",
+        "extraPrice":"100",
+        "KidsPrice":"50"
+      },
+      {
+        "id":"5rooms",
+        "title": "Luxurious Room 4",
+        "imageUrl": [
+          "https://picsum.photos/190/190?1",
+            "https://placeimg.com/100/100/any",
+            "https://placeimg.com/100/100/any",
+            "https://placeimg.com/100/100/any"
+        ],
+        "details": "2 Adult 1 Children",
+        "sMember":"2",
+        "mMember":"4",
+        "numberOfRoom":"1",
+        "basicPrice": "500",
+        "extraPrice":"100",
+        "KidsPrice":"50"
+      },
+      {
+        "id":"6rooms",
+        "title": "Luxurious Room 5",
+        "imageUrl": [
+          "https://picsum.photos/190/190?15",
+            "https://placeimg.com/100/100/any",
+            "https://placeimg.com/100/100/any",
+            "https://placeimg.com/100/100/any"
+        ],
+        "details": "2 Adult 1 Children",
+        "sMember":"2",
+        "mMember":"4",
+        "numberOfRoom":"1",
+        "basicPrice": "500",
+        "extraPrice":"100",
+        "KidsPrice":"50"
+      }
+    ]
+}
